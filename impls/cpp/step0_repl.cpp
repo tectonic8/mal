@@ -31,4 +31,3 @@ int main() {
     std::cout << rep(user_input) << std::endl;
   }
   return 0;
-}
